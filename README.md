@@ -1,4 +1,4 @@
-# ready-for-toss
+# Ready for Toss
 
 약 2,000일간 토스팀에 합류하기 위한 여정
 
