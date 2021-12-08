@@ -18,5 +18,5 @@
 5. [Ready for Toss #3 — MVW 패턴에 대해 알아보자](https://jisungbin.medium.com/mvw-%ED%8C%A8%ED%84%B4%EC%97%90-%EB%8C%80%ED%95%B4-%EC%95%8C%EC%95%84%EB%B3%B4%EC%9E%90-dedffacb5099)
 6. [Ready for Toss #4 — 안드로이드는 어떻게 돌아갈까?](https://jisungbin.medium.com/%EC%95%88%EB%93%9C%EB%A1%9C%EC%9D%B4%EB%93%9C%EB%8A%94-%EC%96%B4%EB%96%BB%EA%B2%8C-%EB%8F%8C%EC%95%84%EA%B0%88%EA%B9%8C-2eee02c66d78)
 7. [Ready for Toss #5 — 앞으로의 계획 (부제_iOS 포기)](https://jisungbin.medium.com/%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%EA%B3%84%ED%9A%8D-%EB%B6%80%EC%A0%9C-ios-%ED%8F%AC%EA%B8%B0-73499aaf636)
-8. [코테 공부중 (2021.12.01 ~ 백준 **실력으로** 골드 티어 달성까지)](https://github.com/jisungbin/algorithm-code)
+8. [코테 공부중 (2021.12.01 ~ 백준 실력으로 골드 티어 달성까지)](https://github.com/jisungbin/algorithm-code)
 9. [나에게 맞는 알고리즘 공부 방법](https://jisungbin.medium.com/%EB%82%98%EC%97%90%EA%B2%8C-%EB%A7%9E%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80-%EB%B0%A9%EB%B2%95-9851d570f171)
