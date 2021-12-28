@@ -11,6 +11,8 @@
 
 ---
 
+### 아티클
+
 1. [Ready for Toss #1 — 토스팀에서 원하는 인재상 파악하기](https://jisungbin.medium.com/ready-for-toss-1-1-%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90%EC%84%9C-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9D%B8%EC%9E%AC%EC%83%81-%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0-2167efd1f841)
 2. [Ready for Toss #1 — 토스팀에서 원하는 인재상 파악하기 (2)](https://jisungbin.medium.com/ready-for-toss-1-2-%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90%EC%84%9C-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9D%B8%EC%9E%AC%EC%83%81-%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0-9709d11d3b9d)
 3. [Ready for Toss #2 — 애자일(Agile) 이란?](https://jisungbin.medium.com/ready-for-toss-2-1-%EC%95%A0%EC%9E%90%EC%9D%BC-agile-%EC%9D%B4%EB%9E%80-47a40c46060a)
@@ -20,3 +22,10 @@
 7. [Ready for Toss #5 — 앞으로의 계획 (부제_iOS 포기)](https://jisungbin.medium.com/%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%EA%B3%84%ED%9A%8D-%EB%B6%80%EC%A0%9C-ios-%ED%8F%AC%EA%B8%B0-73499aaf636)
 8. [코테 공부중 (2021.12.01 ~ 백준 실력으로 골드 티어 달성까지)](https://github.com/jisungbin/algorithm-code)
 9. [나에게 맞는 알고리즘 공부 방법](https://jisungbin.medium.com/%EB%82%98%EC%97%90%EA%B2%8C-%EB%A7%9E%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80-%EB%B0%A9%EB%B2%95-9851d570f171)
+
+### 면접시 준비해야할 것들
+
+1. **프로젝트를 진행하면서 사용했던 기술들에 대해 다 설명할 수 있어야 함 (MVI 패턴, Retrofit 작동 방식 등등)**
+2. 프로젝트를 진행하면서 겪었던 이슈와 해결 방법
+3. 팀 안에서 의견이 갈릴 때 해결 방법
+4. 진행했던 프로젝트 중에서 제일 좋았던? 프로젝트
