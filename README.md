@@ -1,6 +1,6 @@
 # Ready for Toss
 
-약 380일간 토스팀에 합류하기 위한 여정 
+토스팀에 합류하기 위한 여정 
 
 > 제발 도중에 포기만 하지 말자 [[채용 공고]](https://toss.im/career/job-detail?job_id=4071133003)
 
