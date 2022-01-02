@@ -11,6 +11,10 @@
 
 ---
 
+## 중요
+
+- 진짜 모든걸 완벽하게 다 알고 있어야 함 (면접 1시간도 안되서 끝나면 무조건 탈락)
+
 ## 아티클
 
 1. [Ready for Toss #1 — 토스팀에서 원하는 인재상 파악하기](https://jisungbin.medium.com/ready-for-toss-1-1-%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90%EC%84%9C-%EC%9B%90%ED%95%98%EB%8A%94-%EC%9D%B8%EC%9E%AC%EC%83%81-%ED%8C%8C%EC%95%85%ED%95%98%EA%B8%B0-2167efd1f841)
