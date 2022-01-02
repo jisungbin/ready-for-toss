@@ -14,6 +14,7 @@
 ## 중요
 
 - 진짜 모든걸 완벽하게 다 알고 있어야 함 (면접 1시간도 안되서 끝나면 무조건 탈락)
+- [android-study](https://github.com/jisungbin/android-study), [kotlin-study](https://github.com/jisungbin/kotlin-study) 전체 필수 숙지
 
 ## 아티클
 
