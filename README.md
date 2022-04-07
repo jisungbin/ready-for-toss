@@ -29,3 +29,5 @@
 7. [Ready for Toss #5 — 앞으로의 계획 (부제_iOS 포기)](https://jisungbin.medium.com/%EC%95%9E%EC%9C%BC%EB%A1%9C%EC%9D%98-%EA%B3%84%ED%9A%8D-%EB%B6%80%EC%A0%9C-ios-%ED%8F%AC%EA%B8%B0-73499aaf636)
 8. [코테 공부중 (2021.12.01 ~ 백준 실력으로 골드 티어 달성까지)](https://github.com/jisungbin/algorithm-code)
 9. [나에게 맞는 알고리즘 공부 방법](https://jisungbin.medium.com/%EB%82%98%EC%97%90%EA%B2%8C-%EB%A7%9E%EB%8A%94-%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98-%EA%B3%B5%EB%B6%80-%EB%B0%A9%EB%B2%95-9851d570f171)
+10. [Ready for Toss #6 — 토스팀에서 “먼저” 연락이 왔다.](https://jisungbin.medium.com/%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90%EC%84%9C-%EB%A8%BC%EC%A0%80-%EC%97%B0%EB%9D%BD%EC%9D%B4-%EC%99%94%EB%8B%A4-241f74d24489)
+11. [Ready for Toss #7 - 토스팀에 다녀왔다.](https://jisungbin.medium.com/%ED%86%A0%EC%8A%A4%ED%8C%80%EC%97%90-%EB%8B%A4%EB%85%80%EC%99%94%EB%8B%A4-9fdede579aba)
