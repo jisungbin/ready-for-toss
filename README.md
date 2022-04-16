@@ -15,7 +15,7 @@
 
 - **포 기 하 지 않 기**
 - 진짜 모든걸 완벽하게 다 알고 있어야 함 (면접 1시간도 안되서 끝나면 무조건 탈락)
-- [x-study](https://github.com/jisungbin/x-study), [interview-checklist](https://github.com/jisungbin/interview-checklist) 전체 필수 숙지
+- [x-study](https://github.com/jisungbin/x-study), [interview-checklist](https://github.com/jisungbin/interview-checklist), [study-roadmap](https://github.com/jisungbin/study-roadmap) 전체 필수 숙지
 - IDE 자동완성에 의지하면 큰일남! 직접 쓸 수 있어야 함
 
 ## 아티클
