@@ -4,18 +4,12 @@
 
 > 제발 도중에 **포기만 하지 말자** [[채용 공고]](https://toss.im/career/job-detail?job_id=4071133003)
 
-<!--약 2,000일간 토스팀에 합류하기 위한 여정
-
-> 왜 2,000일? **약 2,000일 후면 군대와 대학 문제가 해결된다.** <br/>
-> 아니면, 2022년에 산업기능요원으로 갈 수 있을지도?!-->
-
 ---
 
 ## 중요
 
 - **포 기 하 지 않 기**
 - 진짜 모든걸 완벽하게 다 알고 있어야 함 (면접 1시간도 안되서 끝나면 무조건 탈락)
-- [x-study](https://github.com/jisungbin/x-study), [interview-checklist](https://github.com/jisungbin/interview-checklist), [study-roadmap](https://github.com/jisungbin/study-roadmap) 전체 필수 숙지
 - IDE 자동완성에 의지하면 큰일남! 직접 쓸 수 있어야 함
 
 ## 아티클
